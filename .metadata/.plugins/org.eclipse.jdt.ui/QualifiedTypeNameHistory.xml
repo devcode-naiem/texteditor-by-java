@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="java.awt.FlowLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextArea"/>
+    <fullyQualifiedTypeName name="java.awt.Font"/>
+    <fullyQualifiedTypeName name="javax.swing.JScrollPane"/>
+    <fullyQualifiedTypeName name="javax.swing.ScrollPaneConstants"/>
+    <fullyQualifiedTypeName name="javax.swing.SpinnerNumberModel"/>
+    <fullyQualifiedTypeName name="javax.swing.event.ChangeListener"/>
+    <fullyQualifiedTypeName name="javax.swing.JSpinner"/>
+    <fullyQualifiedTypeName name="javax.swing.event.ChangeEvent"/>
+    <fullyQualifiedTypeName name="java.awt.Dimension"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="javax.swing.JColorChooser"/>
+    <fullyQualifiedTypeName name="javax.swing.JComboBox"/>
+    <fullyQualifiedTypeName name="java.awt.GraphicsEnvironment"/>
+    <fullyQualifiedTypeName name="javax.swing.SwingUtilities"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="javax.swing.event.DocumentEvent"/>
+    <fullyQualifiedTypeName name="javax.swing.event.DocumentListener"/>
+    <fullyQualifiedTypeName name="edu.princeton.cs.algs4.StdRandom"/>
+</qualifiedTypeNameHistroy>
